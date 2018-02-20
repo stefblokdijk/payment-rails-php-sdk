@@ -4,7 +4,6 @@
 
 The Payment Rails PHP library provides integration access to the Payment Rails API.
 
-
 ## Requirements
 
 PHP version >= 5.4.0 is required.
@@ -24,7 +23,6 @@ openssl
 git clone https://github.com/PaymentRails/php-sdk.git
 ```
 
-
 ### Composer
 
 [Install PHP Composer](https://getcomposer.org/doc/00-intro.md)
@@ -36,7 +34,6 @@ composer require paymentrails/php-sdk
 ```
 
 Then run `composer install`
-
 
 ## Getting Started
 
